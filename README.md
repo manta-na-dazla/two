@@ -1,2 +1,3 @@
 # ПОЛЕЗНЫЕ САЙТЫ
-two
+ https://www.artlebedev.ru/typograf/
+ https://pixlr.com/ru/express/
